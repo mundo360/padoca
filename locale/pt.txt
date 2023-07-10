@@ -1,0 +1,163 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_B3B9ECA6_F608_D866_41EB_75D26B1EA2D4.source = http://df360.com.br
+LinkBehaviour_18AACB8F_2B45_79FF_41C1_38E52C62FD02.source = http://df360.com.br
+LinkBehaviour_03CEAB74_40A8_ED2B_41C9_4F37035583A7.source = https://instagram.com/padocabrasilia
+LinkBehaviour_5AA52DB7_4D99_C20B_41C5_F3B862C6FE2F.source = https://instagram.com/padocabrasilia
+LinkBehaviour_5BF97CD9_4F38_009A_41C6_5A32F612E4AF.source = https://instagram.com/padocabrasilia
+LinkBehaviour_04F082A6_40A8_FF37_41A1_43257CAD1B75.source = https://instagram.com/padocabrasilia
+LinkBehaviour_04CAA68D_40A8_27F4_41C0_A3349801E1ED.source = https://linktr.ee/padocabrasilia
+LinkBehaviour_02292F08_40B8_26FB_41C2_A9D78EFEE2E2.source = https://linktr.ee/padocabrasilia
+LinkBehaviour_0FDAAA40_41AB_EF6C_41C7_A3329B9A96DA.source = https://padocabrasilia.ola.click/products
+LinkBehaviour_00C8E1DF_40DB_FD15_4177_3CF6EDDB67ED.source = https://padocabrasilia.ola.click/products
+LinkBehaviour_0E77CACB_41A8_EF7D_41AA_EC4587F851B6.source = https://padocabrasilia.ola.click/products
+LinkBehaviour_043DF30B_40B8_1EFD_41C4_7D1788EB970E.source = https://padocabrasilia.ola.click/products
+LinkBehaviour_032FCF69_40A8_253D_41C4_572085646895.source = https://padocabrasilia.ola.click/products
+LinkBehaviour_06213C96_4179_EB17_41BA_846D2C5DC8C1.source = https://wa.me/556130463064
+LinkBehaviour_008731E2_40D8_3D2F_4194_459FE4BFA012.source = https://wa.me/556130463064
+LinkBehaviour_0A499937_4168_2D15_41C7_651F2AECE5EA.source = https://wa.me/556130463064
+LinkBehaviour_0867D327_4168_1D34_41B8_B749D3B71885.source = https://wa.me/556130463064
+LinkBehaviour_0205F889_40A8_6BFD_4186_FCEA0C4022CC.source = https://wa.me/556130463064
+LinkBehaviour_008FA429_40D8_3B3D_41A3_EABEF94D0FCC.source = https://wa.me/556130463064
+LinkBehaviour_09B76D6D_4178_2535_4188_198983B658D8.source = https://wa.me/556130463064
+LinkBehaviour_00914DE6_40D8_2537_41C5_0F62A90D3591.source = https://wa.me/556130463064
+LinkBehaviour_5B97AD2E_4EC8_01B9_41CC_C5E79FFFE27F.source = https://wa.me/556130463064
+LinkBehaviour_09E720BF_4178_1B15_41AA_AC4E1093BC87.source = https://wa.me/556130463064
+LinkBehaviour_59FDE832_4E69_C204_41D3_02B7E0E62ABD.source = https://wa.me/556130463064
+LinkBehaviour_06C1D0A2_40A8_1B2F_41C8_2458DB840876.source = https://wa.me/556130463064
+LinkBehaviour_5555D337_4F48_0197_41C5_8739FA43A1C8.source = https://wa.me/556130463064
+LinkBehaviour_07ECA346_40A8_1D77_41B9_C33AA3BE4493.source = https://wa.me/556130463064
+LinkBehaviour_08C8B3A0_40A8_1D2B_414C_367B96428F80.source = https://wa.me/556130463064
+LinkBehaviour_066837BC_40A8_651B_41A5_370D26E1AF2C.source = https://wa.me/556130463064
+LinkBehaviour_04A46C16_4157_EB17_41CE_29C9F311BA84.source = https://wa.me/556130463064
+LinkBehaviour_04F0F2A5_40A8_FF35_41BB_71AF88B759FA.source = https://wa.me/556130463064
+LinkBehaviour_03CE3B73_40A8_ED2D_41A5_492ED54840D0.source = https://wa.me/556130463064
+WebFrame_55170236_4F48_03A9_41C6_58E036485841.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2675.3293658024927!2d-48.034515960657814!3d-15.829291124215116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a330f04023b8f%3A0xba113e6e705a054f!2sPadoca%20Bras%C3%ADlia!5e0!3m2!1spt-BR!2sbr!4v1689006551469!5m2!1spt-BR!2sbr
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2675.3293658024927!2d-48.034515960657814!3d-15.829291124215116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a330f04023b8f%3A0xba113e6e705a054f!2sPadoca%20Bras%C3%ADlia!5e0!3m2!1spt-BR!2sbr!4v1689006551469!5m2!1spt-BR!2sbr
+LinkBehaviour_05B2ACD4_1ED1_F612_4181_585ECAB0AE31.source = https://www.instagram.com/padocabrasilia/
+LinkBehaviour_5B97DD2E_4EC8_01B9_41CC_ED6DBA6DFC1D.source = https://www.instagram.com/padocabrasilia/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_04D557CC_40E8_657B_4188_7CF1DDF5021C.text = Consultar Cardápio
+HotspotPanoramaOverlayTextImage_0DC6950A_4158_7AFC_4195_DE80D97E382D.text = Entre e conheça a Padoca Brasilia
+
+## Media
+
+### Audio
+audiores_03CA5967_3F68_2D35_41C6_C494210C5015.mp3Url = media/audio_213BD2CB_3FD8_3F7D_41C7_2C561B32F6C2_pt.mp3
+
+### Image
+imlevel_1276301D_4158_3B15_41CA_CD95E2C8C6A1.url = media/panorama_2EB42F81_3F68_25ED_41B7_FF078210DC93_HS_w7mfczrt_pt.png
+imlevel_11421917_4168_2D15_4175_53F9A6AC1CD2.url = media/panorama_2EB435C5_3F68_2575_41CD_4BEC6058DB74_HS_q0n84w0v_pt.png
+
+### Title
+panorama_2EB435C5_3F68_2575_41CD_4BEC6058DB74.label = Balcão Pedidos Café
+panorama_2EB4D21A_3F68_7F1F_41CE_836B25AB1A12.label = Balcão Pães 1
+panorama_2EB7AFE2_3F68_652F_41BA_366ACE8BFB4B.label = Balcão Pães 2
+panorama_2EB6FECB_3F68_277D_41B2_F988ECF0BEDC.label = Balcão Pães 3
+panorama_2EB49CC3_3F69_EB6C_41B3_4BE940A14980.label = Café Colonia 2
+panorama_2EB558C3_3F68_2B6D_419C_88044BDC4BF1.label = Café Colonial
+panorama_2EB45245_3F68_1F75_41B2_22B206ED82E1.label = Café Colonial 1
+panorama_2EB56B27_3F68_2D35_41B3_C291BBB9F17B.label = Café Colonial3
+panorama_2EB5C737_3F68_6515_41B7_94A75D4BFE13.label = Café coloniial 5
+panorama_2CFB6257_3F68_1F15_4192_2B18F6B6E875.label = Caixa
+panorama_2EB86BAA_3F68_6D3F_41CE_F5E6E173C543.label = Caixa Saída
+panorama_2EB403ED_3F68_1D35_41C7_8664B2BA10BB.label = Entrada
+panorama_2EB5BE38_3F68_271B_41CD_1D4C5DA0A7ED.label = Entrada Fundos
+panorama_2EB591BA_3F68_3D1F_41B3_C7A19C41F3FE.label = Esquina Direita
+panorama_2EB45F34_3F68_252B_419A_94100F8DD94A.label = Esquina esquerda
+panorama_2EB72BA6_3F68_ED34_419E_09D590B46162.label = Estacionamento 1
+panorama_2EB547CA_3F68_257F_41A9_FBA410A88620.label = Estacionamneto 2
+panorama_2EB42F81_3F68_25ED_41B7_FF078210DC93.label = Fachada Padoca
+panorama_2EB4C4A6_3F68_3B34_41B5_93973F5E217D.label = Geladeira Bebidas
+panorama_2EB435DB_3F6B_E51D_41B7_C9E8818FF691.label = Prateleira1
+panorama_2EB448C5_3F6B_EB75_41CC_A2C15FDEF781.label = Prateleiras Meio
+panorama_2EB43C19_3F68_2B1D_41C7_BA9861A4A5D4.label = Registro de Pedidos
+panorama_2EB4F955_3F68_2D15_41A7_C9EE011FE164.label = banheiro-edit
+panorama_2EB41579_3F68_651D_4192_47C3EF0D5994.label = café colonial 6
+panorama_2EB4A104_3F68_1AEB_4188_A5859847A43D.label = frente vidro
+panorama_2EB554B6_3F68_3B17_4178_99F87F5A92C0.label = varanda centro
+panorama_2EB4A6A6_3F68_2737_41B0_CD5F7BDAB326.label = varanda direita
+panorama_2EB44C7A_3F68_6B1F_41C7_21F16820F1B8.label = varanda esquerda
+panorama_2EB4D93D_3F68_6D15_41A0_189861ACEB15.label = varanda porta
+
+## Skin
+
+### Button
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = CONTATO
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
+
+### Image
+Image_03CC0B10_40A8_EEEB_41B4_F207D379BA50.url = skin/Image_03CC0B10_40A8_EEEB_41B4_F207D379BA50_pt.png
+Image_04F172A3_40A8_FF2D_41CC_F60950CF10BA.url = skin/Image_04F172A3_40A8_FF2D_41CC_F60950CF10BA_pt.png
+Image_06CF1F2F_1ED1_D20E_41B4_49767DD5C108.url = skin/Image_06CF1F2F_1ED1_D20E_41B4_49767DD5C108_pt.png
+Image_08CD839E_40A8_1D17_41AA_11AACCD2AB6F.url = skin/Image_08CD839E_40A8_1D17_41AA_11AACCD2AB6F_pt.png
+Image_0A4CA92F_4168_2D35_4169_6B8010DD5BE6.url = skin/Image_0A4CA92F_4168_2D35_4169_6B8010DD5BE6_pt.png
+Image_192181B7_2B45_692F_41C2_6713796F074D_mobile.url = skin/Image_192181B7_2B45_692F_41C2_6713796F074D_mobile_pt.png
+Image_192181B7_2B45_692F_41C2_6713796F074D.url = skin/Image_192181B7_2B45_692F_41C2_6713796F074D_pt.png
+Image_196FABCC_2B47_1962_4197_EAFB0CC5F468_mobile.url = skin/Image_196FABCC_2B47_1962_4197_EAFB0CC5F468_mobile_pt.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_pt.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_pt.png
+Image_41EF0027_4ED8_1FB7_41B4_34F87236750D_mobile.url = skin/Image_41EF0027_4ED8_1FB7_41B4_34F87236750D_mobile_pt.png
+Image_5A239DA1_4D96_C204_41BF_3F67154A3773_mobile.url = skin/Image_5A239DA1_4D96_C204_41BF_3F67154A3773_mobile_pt.png
+Image_5A690695_4DB7_4E0F_41C7_001FAE86D079.url = skin/Image_5A690695_4DB7_4E0F_41C7_001FAE86D079_pt.png
+Image_5AA25ECD_4D97_5E1F_41D0_91787CE1A5C8.url = skin/Image_5AA25ECD_4D97_5E1F_41D0_91787CE1A5C8_pt.png
+Image_5B964D28_4EC8_01B9_41BC_14E61586F5EC.url = skin/Image_5B964D28_4EC8_01B9_41BC_14E61586F5EC_pt.png
+Image_5B965D28_4EC8_01BE_41C5_E6F38590A1FA.url = skin/Image_5B965D28_4EC8_01BE_41C5_E6F38590A1FA_pt.png
+Image_5B966D2D_4EC8_01BB_41D3_475492CCADE6.url = skin/Image_5B966D2D_4EC8_01BB_41D3_475492CCADE6_pt.png
+Image_5B967D2D_4EC8_01BB_41A5_BE4405F751F6.url = skin/Image_5B967D2D_4EC8_01BB_41A5_BE4405F751F6_pt.png
+Image_5B978D2E_4EC8_01B9_41CF_D482638C88E0.url = skin/Image_5B978D2E_4EC8_01B9_41CF_D482638C88E0_pt.png
+Image_5B979D2E_4EC8_01B9_41B2_ACD1C28C535F.url = skin/Image_5B979D2E_4EC8_01B9_41B2_ACD1C28C535F_pt.png
+Image_5B97BD2E_4EC8_01B9_419F_696FD32197EF.url = skin/Image_5B97BD2E_4EC8_01B9_419F_696FD32197EF_pt.png
+Image_5B97ED2E_4EC8_01B9_41B8_36B63F24C110.url = skin/Image_5B97ED2E_4EC8_01B9_41B8_36B63F24C110_pt.png
+Image_5BF80CD9_4F38_009A_41C2_4654EE8EA211.url = skin/Image_5BF80CD9_4F38_009A_41C2_4654EE8EA211_pt.png
+Image_5C3AE15F_4EC8_0197_41BA_17031A8A0268_mobile.url = skin/Image_5C3AE15F_4EC8_0197_41BA_17031A8A0268_mobile_pt.png
+Image_5E17B6E0_4EC8_00A9_41CA_58B78DDF2190_mobile.url = skin/Image_5E17B6E0_4EC8_00A9_41CA_58B78DDF2190_mobile_pt.png
+Image_5E452090_4EC8_1F6A_41A6_196D5BA20237_mobile.url = skin/Image_5E452090_4EC8_1F6A_41A6_196D5BA20237_mobile_pt.png
+
+### Label
+Label_5B13A988_4D9F_4205_41A7_80A5E4D362D0.text = (61) 3046-3064
+Label_5BF8ECD9_4F38_009A_41BC_E97496574B42.text = (61) 3046-3064
+Label_03CCBB71_40A8_ED2D_41CA_7DEA09CEB594.text = (61) 3046-3064
+Label_04F122A4_40A8_FF2B_41C8_98119EF63390.text = (61) 3046-3064
+Label_04A6AC14_4157_EAEB_41CA_42943B083B54.text = 07h às 11h
+Label_09E670B9_4178_1B1C_41BE_958BEEE585A7.text = 07h às 11h 
+Label_066BE7BB_40A8_651D_41B6_77C56B299AFA.text = 07h às 13h
+Label_0798E326_4168_1D34_41B4_FE46BCB5DA8B.text = 07h às 13h
+Label_062FCC95_4179_EB15_4180_8A750FAE3375.text = 16h às 21h 
+Label_08CD639F_40A8_1D15_41BE_C08C2F3F2D36.text = 16h às 21h 
+Label_04F092A6_40A8_FF37_41BC_B881958580B0.text = @padocabrasilia
+Label_5BF8DCD9_4F38_009A_41C6_C8EA4941B8F8.text = @padocabrasilia
+Label_03CEBB73_40A8_ED2D_41D0_0EF61A40BBAF.text = @padocabrasilia
+Label_55C078B3_4D99_C204_4194_DB07BCC845D0.text = @padocabrasilia
+Label_0A4F1930_4168_2D10_41C5_E8117ED670FD.text = Horário Café Colonial
+Label_08CD239E_40A8_1D17_41CA_319706A33987.text = Horários Café Colonial
+Label_0183B277_40B8_3F15_41CB_05F236C17D67.text = Padoca Brasilia
+Label_04F152A4_40A8_FF2B_4195_2812CA364C0B.text = Padoca Brasília
+Label_02801BF1_40B8_2D2D_41CF_2FF3DAC3004E.text = Padoca Brasília
+Label_5A55321E_4D99_463C_41C1_BAE8C7591590.text = Padoca Brasília
+Label_5BF8FCD9_4F38_009A_41B3_678B85ECC196.text = Padoca Brasília
+Label_03CCEB11_40A8_EEED_41BA_468A3139FD70.text = Padoca Brasília
+Label_07EF0343_40A8_1D6D_41CA_43527587D554.text = Segunda a sexta-feira 
+Label_09B64D6C_4178_2534_4196_07DF8E8C9A7E.text = Segunda a sexta-feira 
+Label_06C090A1_40A8_1B2D_41BF_1801E16248B1.text = Sábado e domingo
+Label_0A4F3936_4168_2D17_41C7_B65FBB659C1D.text = Sábado e domingo  
+Label_27EB1170_3FB8_7D2B_4186_2937716252A9.text = Tour 360 - Visita Virtual
+Label_295C1535_3F58_2515_41A6_9657F08A821D.text = Tour 360 - visita virtual
+
+### Multiline Text
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:94%;text-align:left;font-size:3.1250000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.13vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="line-height:94%;text-align:left;font-size:2.812500000000001vh;"><SPAN STYLE="vertical-align:super;display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.81vh;font-family:'Bebas Neue Bold';">Lista de fotos:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.341534008683071vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.34vh;font-family:'Bebas Neue Bold';">Lista de fotos :</SPAN></SPAN></DIV></div>
+HTMLText_55177236_4F48_03A9_41CB_D58CAA72B583.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.65625vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização Padoca Brasilia</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Padoca Brasilia - Tour Virtual 360
